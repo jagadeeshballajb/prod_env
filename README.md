@@ -4,8 +4,7 @@ test passed
 test greened
 git 
 git hub
-testing from gitgit 
-testinh hfdjfhn jufdbvjf
+removed unwanted data
 new line added
 new feature added
 hello world
