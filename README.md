@@ -6,5 +6,7 @@ test passed
 test greened
 git 
 git hub
-testing from git
+testing from gitgit 
 testinh hfdjfhn jufdbvjf
+new line added
+new feature added
