@@ -4,3 +4,6 @@ README.md
 
 test passed
 test greened
+git 
+git hub
+testing from git
